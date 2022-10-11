@@ -1,0 +1,42 @@
+body{
+    background-color: #F0F5F7;
+    font-family: monospace;
+}
+#container{
+    border: solid 1px;
+    background-color: #4F9EAD;
+    width: 800px;
+    margin: 0 auto;
+}
+
+li{
+    padding: 2%;
+}
+
+#header{
+   background-color: #4F9EAD;
+   color: white;
+   text-align: center;
+}
+
+#header h1{
+    font-size: 40px;
+}
+
+#header h2{
+    font-size: 20px;
+}
+
+#contenido{
+    background-color: #B2E0EA;
+    text-align: justify;
+    padding: 3%;
+}
+
+
+
+#footer{
+    background-color: #4F9EAD;
+    text-align: center;
+    color: white;
+}
